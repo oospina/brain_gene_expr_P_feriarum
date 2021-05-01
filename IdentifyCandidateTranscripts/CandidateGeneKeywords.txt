@@ -1,0 +1,44 @@
+OR	Glutamate receptor ionotropic	(NMDA and kainate)
+AND	AMPA glutamate receptor	ionotropic	!regulation of AMPA glutamate receptor
+AND	GABA transporter
+AND	=Gamma-aminobutyric acid receptor	!Gamma-aminobutyric acid receptor-associatesd protein-like	
+OR	synaptotagmin	synaptogamin-like
+AND	synapsin
+AND	V-ATPase	!V-ATPase is responsible
+AND	Synaptobrevin
+AND	=Syntaxin-	!=Syntaxin-binding
+AND	Synaptosomal-associated protein
+AND	N-ethylmaleimide
+AND	SNAP-25
+AND	-synuclein	!-synuclein-binding
+AND	Neurotransmitter	transporter	!neurotransmitter receptor metabolic process
+AND	cytochrome b561
+OR	RAB1A	RAB2A	RAB2B	RAB3A	RAB3B	RAB3C	RAB3D	RAB4	RAB5	RAB6	RAB7	RAB8	RAB10	RAB11	RAB13	RAB14	RAB17	RAB21	RAB25	RAB26	RAB27B	RAB33A	RAB33B	RAB35	RAB39B
+AND	Rabphilin
+AND	Secretory carrier-associated membrane protein
+AND	synaptic vesicle glycoprotein 2
+AND	=Synaptogyrin-
+AND	Synaptophysin;
+AND	zinc transporter
+AND	vacuolar proton-transporting
+AND	Amphiphysin
+AND	Endophilin
+OR	=AP-2 complex	ap-2 adaptor complex'
+AND	=clathrin
+AND	=Calcium/calmodulin-dependent protein kinase
+AND	=Dynamin	!-like
+OR	DC1I1	DC1I2	DC1L1	DC1L2	DC2L1	DCTN1	DYHC1	DYHC2	DYL1	DYL2
+AND	GDP dissociation inhibitor
+AND	GDP-dissociation inhibitor	!GDP-dissociation inhibitor activity	!GDP-dissociation inhibitor binding
+OR	KIF1A	KIF1B	KIF3A	KIF3B	KIF4	KIF5	KIF13B	KIF17	KIFA3	KIFC2
+AND	=Guanine nucleotide exchange factor MSS4
+AND	PP60	!LPP60
+AND	munc
+AND	=neurexin
+OR	=syntaxin	=syntaxin-binding	munc18
+AND	=voltage-dependent calcium channel
+AND	=rims-binding protein
+AND	-SNARE
+OR	complexin-	synaphin
+AND	=cadherin-	!=cadherin-related
+AND	neuroligin	!neuroligin clustering involved in postsynaptic
