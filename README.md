@@ -1,5 +1,5 @@
-# Differential Gene Expression and Correlation Network Analysis of RNA-Seq Data From
-# Upland Chorus Frog (*P. feriarum*) brains 
+# Differential Gene Expression and Correlation Network Analysis of RNA-Seq Data From Upland 
+Chorus Frog (*P. feriarum*) brains 
 
 This repository contains scripts (R and Java) and input data asssociated to the manuscript
 published in BMC Bioinformatics titled: Neurogenomic Divergence During Speciation by
