@@ -27,7 +27,7 @@ together in a .csv table (input for edgeR and most downstream analyses).
 The `IdentifyCandidateTranscripts` folder contains the script to find genes relevant to synaptic 
 transmission during acoustic processing within the reference transcriptome generated in this study. 
 * `IdentifyCandidateTranscripts/code/ExtractCandidatesFromAnnotation3.java`: This Java script 
-uses a list of pre-selected terms (Additional File 11 of the supplemental materials) and the 
+uses a list of pre-selected terms (Additional File 12 of the supplemental materials) and the 
 reference transcriptome annotations (DOI: 10.5281/zenodo.4709988). The list of genes related to 
 synaptic transmission tested in this procedure was extracted from neurophysiological studies.
 
