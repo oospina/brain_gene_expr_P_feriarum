@@ -73,6 +73,10 @@ normalized matrix, resulting from processing of the raw counts of brain RNA-seq 
 * `RandomizationTests/inputs/ModuleSummaryExpanded_Geo.txt`: Input to perform WGCNA module
 randomizations.
 
+The `geneexpr_div` contains R code and input data to generate trees of gene expression.
+* `geneexpr_div/code/geneexpr_divergence.R`: R code to create trees from expression counts.
+* `geneexpr_div/inputs/IndGroups.csv`: Input to run script performing gene expression trees.
+
 ## Visualization
 The `MDSAllDEGenes` folder contains R code to generate a multi-dimensional scaling (MDS) plot of
 the samples. The code uses the CPM normalized counts in the `RandomizationTests` folder.
