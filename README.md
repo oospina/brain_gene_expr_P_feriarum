@@ -65,9 +65,13 @@ The `RandomizationTests` folder contains code and input data to generate randomi
 for significant enrichment of synaptic activity-related genes within the WGCNA.
 * `RandomizationTests/code/RandomizationTestsMethods.R`: R code to perform randomization tests on 
 the WGCNA modules to test for enrichment in synaptic activity genes.
+* `RandomizationTests/code/wgcna_moduleRandomization.R`: R code to perform randomization of WGCNA 
+modules.
 * `RandomizationTests/inputs/CPM_normalized_counts.csv.zip`: The counts-per-million (CPM) 
 normalized matrix, resulting from processing of the raw counts of brain RNA-seq reads.
 * `RandomizationTests/inputs/ModuleSummary.txt`: Summary data from the WGCNA.
+* `RandomizationTests/inputs/ModuleSummaryExpanded_Geo.txt`: Input to perform WGCNA module
+randomizations.
 
 ## Visualization
 The `MDSAllDEGenes` folder contains R code to generate a multi-dimensional scaling (MDS) plot of
