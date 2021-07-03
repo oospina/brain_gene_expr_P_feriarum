@@ -1,0 +1,16 @@
+I29357	AF	red
+I29358	AF	red
+I29359	AM	orange
+I29360	AF	red
+I29361	AM	orange
+I29362	AF	red
+I29363	AM	orange
+I29364	AF	red
+I29366	SF	blue
+I29367	SM	cyan
+I29368	SF	blue
+I29369	SM	cyan
+I29370	SM	cyan
+I29371	SF	blue
+I29372	SF	blue
+I29373	SM	cyan
