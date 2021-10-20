@@ -3,7 +3,7 @@
 This repository contains scripts (R and Java) and input data asssociated to the manuscript
 published in BMC Bioinformatics titled: Neurogenomic Divergence During Speciation by
 Reinforcement of Mating Behaviors in Chorus Frogs (*Pseudacris*). The manuscript can be
-accessed using DOI: XXXXX. Java code was contributed by Alan Lemmon and Python code by
+accessed using [DOI: 10.1186/s12864-021-07995-3](https://doi.org/10.1186/s12864-021-07995-3). Java code was contributed by Alan Lemmon and Python code by
 Oscar Ospina. Code in other languages contributed by Alan Lemmon and Oscar Ospina.
 
 The scripts and input files were used to detect differentially expressed genes in the
